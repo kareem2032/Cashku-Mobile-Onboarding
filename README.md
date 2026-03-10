@@ -28,6 +28,14 @@ The application strictly adheres to Cashku's premium design specifications:
 - **Grid System**: 8pt spacing grid (`AppMetrics`).
 - **Design Tokens**: Centralized styling via `AppColors`, `AppTypography`, and `AppShadows` to guarantee consistency across all views.
 
+<p align="center">
+  <img src="design_system/01_Color_System.png" width="19%" />
+  <img src="design_system/02_Typography_System.png" width="19%" />
+  <img src="design_system/03_Button_System.png" width="19%" />
+  <img src="design_system/04_Interface_Foundations.png" width="19%" />
+  <img src="design_system/05_Illustration_Icon_System.png" width="19%" />
+</p>
+
 *Note: All Custom illustrations and icons utilized in the screens are included under the `assets/` directory.*
 
 ## 📸 Screenshots
