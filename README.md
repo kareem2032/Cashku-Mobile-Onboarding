@@ -32,11 +32,22 @@ The application strictly adheres to Cashku's premium design specifications:
 
 ## 📸 Screenshots
 
-| Splash | Onboarding | Profile Experience | Profile Goals |
-| :---: | :---: | :---: | :---: |
-| ![Splash](screenshots/splash.png) | ![Onboarding](screenshots/onboarding.png) | ![Experience](screenshots/experience.png) | ![Goals](screenshots/goals.png) |
+<p align="center">
+  <img src="screenshots/00_Splash.png" width="18%" />
+  <img src="screenshots/01_Onboarding_Welcome.png" width="18%" />
+  <img src="screenshots/02_Onboarding_Value.png" width="18%" />
+  <img src="screenshots/03_Onboarding_AI.png" width="18%" />
+  <img src="screenshots/04_Onboarding_GetStarted.png" width="18%" />
+</p>
+<p align="center">
+  <img src="screenshots/05_Onboarding_ProfileIntro.png" width="18%" />
+  <img src="screenshots/06_Onboarding_Experience.png" width="18%" />
+  <img src="screenshots/07_Onboarding_Goals.png" width="18%" />
+  <img src="screenshots/08_Auth_Login.png" width="18%" />
+  <img src="screenshots/09_Auth_SignUp.png" width="18%" />
+</p>
 
-*(Note: Add your screenshot images to a `/screenshots` folder at the root of the repository and update the paths above.)*
+*(Note: Ensure all 10 images are placed in the `/screenshots` folder.)*
 
 ## 🗺 Screens Overview
 
