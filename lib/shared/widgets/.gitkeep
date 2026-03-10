@@ -1,0 +1,4 @@
+// Shared widget exports — add widgets here as they are created.
+export 'package:cashku/shared/widgets/app_button.dart'
+    hide AppButton
+    if (dart.library.io) 'package:cashku/shared/widgets/app_button.dart';
